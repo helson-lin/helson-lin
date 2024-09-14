@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 <p>
-Work: More than four years of work. FontEnd Developer. 
+Champion of the CC-BY-NC-4.0 protocol.
 </p>
 
 
