@@ -1,8 +1,4 @@
 ![](assets/Bottom_up.svg)
-<p>
-Champion of the CC-BY-NC-4.0 protocol.
-</p>
-
 
 
 ## Github Stats  
