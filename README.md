@@ -15,15 +15,12 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
 </div>
 
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=helson-lin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+## Websites
 
-
-## Blog
-[https://helson-lin.cn](https://helson-lin.cn)
-
-
-
+- **[徽（Hui）](https://huink.cc)** — 纯前端 Markdown 编辑与导出工具，支持实时预览、多主题切换，以及 PNG、PDF、HTML 导出；内容仅保存在本地浏览器。
+- **[SnapMail](https://snapmail.cn)** — 无需注册的临时邮箱服务，支持实时收信，邮箱有效期为 24 小时。
+- **[Dual](https://github.com/helson-lin/Dual)** — macOS 应用克隆工具，可创建具有独立名称、Bundle ID 与应用身份副本，适用于多账号和隔离测试场景。
+- **[helson-lin.cn](https://helson-lin.cn)** — 个人归档网站。
 
 
 <br/>
