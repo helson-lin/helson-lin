@@ -30,7 +30,7 @@
   面向 AI 编程助手的流程图生成技能，可产出 Excalidraw 风格的 SVG、兼容版 SVG 与 PNG，适用于架构图和流程图交付。
 - **[ffandown](https://github.com/helson-lin/ffandown)**  
   基于 FFmpeg 的在线视频下载工具。
-- **[helson-lin.cn](https://helson-lin.cn)** — 个人归档网站。
+- **[Jarin.me](https://jarin.me)** — 个人归档网站。
 
 
 <br/>
