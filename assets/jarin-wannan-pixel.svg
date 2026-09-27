@@ -7202,7 +7202,7 @@ text{font-family:'Courier New',Courier,monospace;fill:#181818}
 <rect x="820" y="242" width="4" height="4" fill="#444444"/>
 <rect x="824" y="238" width="4" height="4" fill="#444444"/>
 </g></g>
-<text x="48" y="51" font-size="11" letter-spacing="2">FIELD NOTES  /  WANNAN, CHINA</text>
+<text x="48" y="51" font-size="11" letter-spacing="2"></text>
 <g fill="#181818" shape-rendering="crispEdges" aria-hidden="true">
 <rect x="48" y="76" width="5" height="5"/>
 <rect x="68" y="76" width="5" height="5"/>
@@ -7343,6 +7343,6 @@ text{font-family:'Courier New',Courier,monospace;fill:#181818}
 <rect x="1090" y="44" width="60" height="64" fill="none" stroke="#333333"/>
 <text x="1120" y="71" font-size="21" text-anchor="middle">山</text>
 <text x="1120" y="97" font-size="21" text-anchor="middle">水</text>
-<text x="48" y="581" font-size="10" letter-spacing="1">PIXEL LANDSCAPE  /  山水之间</text>
+<text x="48" y="581" font-size="10" letter-spacing="1">山水之间</text>
 <text x="1152" y="581" font-size="10" text-anchor="end" letter-spacing="1">CODE / WANDER / REPEAT</text>
 </g></svg>
