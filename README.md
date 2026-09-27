@@ -1,10 +1,6 @@
-<div align="center">
 
-# Hey, I'm Jarin
+![Hey, I'm Jarin](./assets/jarin-wannan-pixel.svg)
 
-A dev who likes tinkering with macOS tools, AI agents, and random weird ideas
-
-</div>
 
 ---
 
