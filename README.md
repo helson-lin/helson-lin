@@ -7,7 +7,7 @@
 ### Web Toys
 
 - **[SnapMail](https://snapmail.cn)** — No-signup temp email, mail lands instantly, self-destructs after 24 hours
-- **[Jarin.me](https://jarin.me)** — My little personal corner of the internet
+- **[Jarin.me](https://jarin.me/en)** — My little personal corner of the internet
 
 ### macOS Desktop Tools
 
