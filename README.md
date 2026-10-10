@@ -11,6 +11,7 @@
 
 ### macOS Desktop Tools
 
+- **[Framecho](https://github.com/helson-lin/Framecho)** — Native macOS screenshot and screen recording app with non-destructive editing, cinematic motion, and AI-assisted editing via MCP.
 - **[Dual](https://github.com/helson-lin/Dual)** — Clone any app with a new name and identity, run as many "alt accounts" as you want · [See it in action →](http://dual.jarin.me/en)
 - **[FanBar](https://github.com/helson-lin/FanBar)** — A menu bar fan buddy that keeps your Mac cool when things heat up · [See it in action →](http://fanbar.jarin.me/)
 - **[Anneau](https://github.com/helson-lin/Anneau)** — Gesture-based app switching and quick launch, so your hands never leave the trackpad *(built on Orbit, GPL-3.0)*
